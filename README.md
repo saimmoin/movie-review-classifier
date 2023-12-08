@@ -1,0 +1,1 @@
+I developed an NLP project centered on sentiment analysis, wherein it accurately predicts the sentiments—whether negative or positive—associated with movie reviews, achieving a commendable accuracy rate of 89%.
